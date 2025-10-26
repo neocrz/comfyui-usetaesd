@@ -28,7 +28,7 @@ Documentation = "https://github.com/neocrz/comfyui-usetaesd/wiki"
 "Bug Tracker" = "https://github.com/neocrz/comfyui-usetaesd/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "neocrz"
 DisplayName = "comfyui-usetaesd"
 Icon = ""
 includes = [] 
